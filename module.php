@@ -1,2 +1,3 @@
 
 // nowa funkcja
+ druga zmiana
