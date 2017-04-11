@@ -2,9 +2,18 @@
 
 
 moja najmojsza
-dodatkowa najmojsza mojsza
+big btroders
+<<<<<<< .mine
+
+=======
+
+>>>>>>> .theirs
+nowe marzy
+<<<<<<< .mine
 
 
+=======
 
 
+>>>>>>> .theirs
 warszawa
