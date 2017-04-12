@@ -3,17 +3,5 @@
 
 moja najmojsza
 big btroders
-<<<<<<< .mine
 
-=======
-
->>>>>>> .theirs
-nowe marzy
-<<<<<<< .mine
-
-
-=======
-
-
->>>>>>> .theirs
 warszawa
